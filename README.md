@@ -1,3 +1,11 @@
-# Hello World
+# IASC 2P02 | Monique Brown
 
-This is the README file for my IASC 2P02 Web Portfolio.
+##About Me
+
+I am student and I am contantly tired. This is the start of my portfolio.
+
+![](imagez/CoL.webp)
+
+##Blog Post
+
+First sentence of Blog Post goes here...
