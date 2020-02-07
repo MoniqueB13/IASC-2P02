@@ -2,7 +2,7 @@
 
 ##About Me
 
-I am student and I am contantly tired. This is the start of my portfolio.
+I am student and I am constantly tired. This is the start of my portfolio.
 
 ![](imagez/CoL.webp)
 
