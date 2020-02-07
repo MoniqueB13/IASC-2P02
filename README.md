@@ -8,4 +8,4 @@ I am student and I am constantly tired. This is the start of my portfolio.
 
 ##Blog Post
 
-First sentence of Blog Post goes here...
+First sentence of Blog Post goes here... [continue reading](blog)
