@@ -8,4 +8,4 @@ My name is Monique and I am 2nd year IASC student, I enjoy reading, naps and pla
 
 ##Blog Post
 
-First sentence of Blog Post goes here... [continue reading](blog)
+The idea that the humanities and sciences cannot coexist or be used in conjunction is absurd... [continue reading](blog)
