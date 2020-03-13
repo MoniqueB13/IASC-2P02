@@ -6,6 +6,6 @@ My name is Monique and I am 2nd year IASC student, I enjoy reading, naps and pla
 
 ![](imagez/CoL.webp)
 
-Humanities And Sciences can Coexist in Harmony
+##Blog Post
 
 The idea that the humanities and sciences cannot coexist or be used in conjunction is absurd... [continue reading](blog)
