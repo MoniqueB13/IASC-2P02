@@ -2,7 +2,7 @@
 
 ##About Me
 
-I am student and I am constantly tired. This is the start of my portfolio.
+My name is Monique and I am 2nd year IASC student, I enjoy reading, naps and playing video This is the start of my portfolio.
 
 ![](imagez/CoL.webp)
 
